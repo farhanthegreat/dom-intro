@@ -1,0 +1,32 @@
+h1 {
+    color: rgb(255, 33, 70);
+    text-align: center;
+}
+
+.fruits-container li {
+    color:rgb(3, 95, 17);
+    
+}
+header h1 {
+    border: 1px solid black;
+    border-radius: 5px;
+    background-color: rgb(209, 243, 243);
+}
+
+main {
+    text-align: left;
+}
+#fruits-title {
+    color:rgb(255, 0, 0);
+}
+.important-places {
+    color: purple;
+}
+
+.large-text{
+    font-size: 2em;
+}
+
+.text-center {
+    text-align: center;
+}
